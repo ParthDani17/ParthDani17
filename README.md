@@ -80,11 +80,16 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ParthDani17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=ParthDani17&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthDani17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ParthDani17&show_icons=true&theme=dark&hide_border=true" height="180" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthDani17&layout=compact&theme=dark&hide_border=true" height="180" /> -->
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ParthDani17&theme=dark&hide_border=true" height="180" />
+</p>
 
 ### ✍️ Random dev quote
 
