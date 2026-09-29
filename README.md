@@ -31,7 +31,6 @@
 | **[AI Scholarship Finder](https://github.com/ParthDani17/AI-Scholarship-Finder)** | Django · OpenRouter API | Hackathon team project |
 | **[News Pulse](https://github.com/ParthDani17/News-Pulse)** | Django · PostgreSQL | Academic team project |
 
-> Replace the repo URLs above with your actual GitHub repo links.
 
 ---
 
