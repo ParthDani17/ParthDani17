@@ -89,6 +89,16 @@
   <img src="https://streak-stats.demolab.com/?user=ParthDani17&theme=dark&hide_border=true" height="180" />
 </p>
 
+Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthDani17/ParthDani17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthDani17/ParthDani17/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ParthDani17/ParthDani17/output/github-snake.svg" />
+  </picture>
+</p>
+
 ### ✍️ Random dev quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
