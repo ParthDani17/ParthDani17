@@ -89,7 +89,7 @@
   <img src="https://streak-stats.demolab.com/?user=ParthDani17&theme=dark&hide_border=true" height="180" />
 </p>
 
-Contributions
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
