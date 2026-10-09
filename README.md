@@ -99,7 +99,13 @@
   </picture>
 </p>
 
-### ✍️ Random dev quote
+<div align="center">
+  <a href="https://leetcode.com/ParthDani">
+    <img src="https://leetcard.jacoblin.cool/ParthDani?theme=dark&font=baloo2&ext=heatmap"/>
+  </a>
+</div>
+
+### ✍️ Random quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
