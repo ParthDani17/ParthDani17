@@ -105,9 +105,19 @@
   </a>
 </div>
 
-### ✍️ Random quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💭 A Thought I Believe In
+
+<div align="center">
+
+### *"Nothing is truly hard; it's only unexplored."*
+
+**— Parth Dani**
+
+</div>
+
+---
+
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=ParthDani17&color=0e75b6&style=flat)
